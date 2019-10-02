@@ -201,4 +201,10 @@ public class FunctionLibrary
 			SimpleDateFormat sdf=new SimpleDateFormat("YYYY_MM__dd_ss");
 			return sdf.format(date);
 		}
+		
+		//sample code
+		public static void raj()
+		{
+			System.out.println("save nature");
+		}
 }  
